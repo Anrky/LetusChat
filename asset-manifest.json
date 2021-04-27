@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LetusChat/static/css/main.6bb3ddf9.chunk.css",
+    "main.js": "/LetusChat/static/js/main.a28dfcc1.chunk.js",
+    "main.js.map": "/LetusChat/static/js/main.a28dfcc1.chunk.js.map",
+    "runtime-main.js": "/LetusChat/static/js/runtime-main.a19eed79.js",
+    "runtime-main.js.map": "/LetusChat/static/js/runtime-main.a19eed79.js.map",
+    "static/js/2.82403b99.chunk.js": "/LetusChat/static/js/2.82403b99.chunk.js",
+    "static/js/2.82403b99.chunk.js.map": "/LetusChat/static/js/2.82403b99.chunk.js.map",
+    "static/js/3.f866de3b.chunk.js": "/LetusChat/static/js/3.f866de3b.chunk.js",
+    "static/js/3.f866de3b.chunk.js.map": "/LetusChat/static/js/3.f866de3b.chunk.js.map",
+    "index.html": "/LetusChat/index.html",
+    "static/css/main.6bb3ddf9.chunk.css.map": "/LetusChat/static/css/main.6bb3ddf9.chunk.css.map",
+    "static/js/2.82403b99.chunk.js.LICENSE.txt": "/LetusChat/static/js/2.82403b99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a19eed79.js",
+    "static/js/2.82403b99.chunk.js",
+    "static/css/main.6bb3ddf9.chunk.css",
+    "static/js/main.a28dfcc1.chunk.js"
+  ]
+}
